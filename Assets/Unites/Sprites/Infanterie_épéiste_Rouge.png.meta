@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: e9c3a5451d01ed04494a5d840d566c95
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_0"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 404
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86b9f7956e3e9343be19b553c473505
+      internalID: 594619486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_1"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 404
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8422f50248190c6468b455594d6a5202
+      internalID: -457495130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_2"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 404
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160b0e19a172ae74b9d996fc490acc31
+      internalID: 272371780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_3"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 404
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc65ef521d937d45b106e68fba03898
+      internalID: -303709912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_4"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 403
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d722f0a01d58fa4a9fb22d296bba259
+      internalID: -731221274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_5"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 337
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa69227a5ce3c441bc72c4c3bbd8292
+      internalID: -747920467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_6"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 337
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfdd7867afc952478cc00758d3f30c3
+      internalID: 1966701780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_7"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 337
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1821ba284a3a5b141b05c6beea7e9ead
+      internalID: -1766788358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_8"
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 338
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b47fc3413671644b3e9000a243ccd5
+      internalID: -655872237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_9"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 337
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c71c173176d9f744bff9dbc45abb0e4
+      internalID: 429124876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_10"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 276
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b11b82035d14d418b83c026a8a4fd4
+      internalID: -259535910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_11"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 275
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168f6e3f3f594da4d98c7310bf62369c
+      internalID: -1663509852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_12"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 274
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa0ba5eb3e97bb438f99b7b584f6439
+      internalID: -974842983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_13"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 274
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d84dd42aa6647478d793cd31fa01bc
+      internalID: -1546971380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_14"
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 275
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdff53f539d6c264d8f59da7f9e1934a
+      internalID: 822664822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_15"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 204
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04553597605450848b97722de0bfce64
+      internalID: 174069936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_16"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 208
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d68d24f4e78194abedd5e8bf71f708
+      internalID: -1394977184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_17"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 213
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d808c0c7da22cf045af3634f161fdd48
+      internalID: 539950268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_18"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 213
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aa1ed3d1a7f3a48bc08089f847b474
+      internalID: -2090189556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_19"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 208
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00a22e02d7f4b64a8bf482c0b2c6e6e
+      internalID: -1883838026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_20"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 145
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568fe6534e6efcf47a537593eef8e8cb
+      internalID: 1988701824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_21"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 145
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a13a6291d02a646ba3ff489acba24c
+      internalID: 772925980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_22"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 145
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a26685940c30749b376b7b601c7916
+      internalID: -921194115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_23"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 145
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d084954b797584b958d9f4820d58ca
+      internalID: -1990770880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_24"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 145
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d3f1bf6c61edf48aa1337d73c2cc02
+      internalID: 1717211764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_25"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 82
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f927d694636cb254292ab0460f02ca9d
+      internalID: 1472427431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_26"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9ef64e6c7ad3b4389791491150d6a3
+      internalID: -1755593746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_27"
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 82
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c21dc57eac413044b9ae59dbe09eea5
+      internalID: 1575340032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_28"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 82
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4f640e5668d74099477db0e7b0bdc
+      internalID: 1566343698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_29"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 81
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351978ddb63411c4db6c7c3141d99054
+      internalID: 2112439497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_30"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 12
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b36928cff81c54995cf0f203a93bc9
+      internalID: 1191704282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_31"
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdfeae355b62a24eaab3c9c45201f4b
+      internalID: 1886259484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_32"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 14
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd78ce119b05f0478460c003a1bab49
+      internalID: -304587202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_33"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 15
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a0b513c8c0b684cb10f96bc3b96630
+      internalID: 1574704009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Rouge_34"
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 16
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764a524e66245f84fbd6ae024795ce55
+      internalID: 1201010234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Infanterie_\xE9p\xE9iste_Rouge_0": 594619486
+      "Infanterie_\xE9p\xE9iste_Rouge_1": -457495130
+      "Infanterie_\xE9p\xE9iste_Rouge_10": -259535910
+      "Infanterie_\xE9p\xE9iste_Rouge_11": -1663509852
+      "Infanterie_\xE9p\xE9iste_Rouge_12": -974842983
+      "Infanterie_\xE9p\xE9iste_Rouge_13": -1546971380
+      "Infanterie_\xE9p\xE9iste_Rouge_14": 822664822
+      "Infanterie_\xE9p\xE9iste_Rouge_15": 174069936
+      "Infanterie_\xE9p\xE9iste_Rouge_16": -1394977184
+      "Infanterie_\xE9p\xE9iste_Rouge_17": 539950268
+      "Infanterie_\xE9p\xE9iste_Rouge_18": -2090189556
+      "Infanterie_\xE9p\xE9iste_Rouge_19": -1883838026
+      "Infanterie_\xE9p\xE9iste_Rouge_2": 272371780
+      "Infanterie_\xE9p\xE9iste_Rouge_20": 1988701824
+      "Infanterie_\xE9p\xE9iste_Rouge_21": 772925980
+      "Infanterie_\xE9p\xE9iste_Rouge_22": -921194115
+      "Infanterie_\xE9p\xE9iste_Rouge_23": -1990770880
+      "Infanterie_\xE9p\xE9iste_Rouge_24": 1717211764
+      "Infanterie_\xE9p\xE9iste_Rouge_25": 1472427431
+      "Infanterie_\xE9p\xE9iste_Rouge_26": -1755593746
+      "Infanterie_\xE9p\xE9iste_Rouge_27": 1575340032
+      "Infanterie_\xE9p\xE9iste_Rouge_28": 1566343698
+      "Infanterie_\xE9p\xE9iste_Rouge_29": 2112439497
+      "Infanterie_\xE9p\xE9iste_Rouge_3": -303709912
+      "Infanterie_\xE9p\xE9iste_Rouge_30": 1191704282
+      "Infanterie_\xE9p\xE9iste_Rouge_31": 1886259484
+      "Infanterie_\xE9p\xE9iste_Rouge_32": -304587202
+      "Infanterie_\xE9p\xE9iste_Rouge_33": 1574704009
+      "Infanterie_\xE9p\xE9iste_Rouge_34": 1201010234
+      "Infanterie_\xE9p\xE9iste_Rouge_4": -731221274
+      "Infanterie_\xE9p\xE9iste_Rouge_5": -747920467
+      "Infanterie_\xE9p\xE9iste_Rouge_6": 1966701780
+      "Infanterie_\xE9p\xE9iste_Rouge_7": -1766788358
+      "Infanterie_\xE9p\xE9iste_Rouge_8": -655872237
+      "Infanterie_\xE9p\xE9iste_Rouge_9": 429124876
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

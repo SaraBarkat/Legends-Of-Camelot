@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 0efcf73ed6954724e8d6f728a99d42a8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_0"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 404
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2860187049bff8458b244a5813f5492
+      internalID: -990958782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_1"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 404
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e19ab3d9d1af847a2fa13c380df133
+      internalID: -1365419880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_2"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 404
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6994f99990d5c544793299ed123fa60a
+      internalID: 1616243629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_3"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 404
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4268fc68298f5124fad66254b41a5ab7
+      internalID: 1917917798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_4"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 404
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e09fed3c952fe48a70a20a60d50f46
+      internalID: -1168688884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_5"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 338
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14139b4983d953042abe086f85ea62ab
+      internalID: 1278317295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_6"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 338
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd86853b2579ef48864ae4a4eff0dc0
+      internalID: -725022971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_7"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 338
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afa4c8ff23f2d0429ff0c74640d58d7
+      internalID: 1796772654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_8"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 338
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ed80c1874e9964abcd35250ff2747f
+      internalID: 1866691367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_9"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 338
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdf7b2c8dc1f4343949063ec4537306
+      internalID: 287962301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_10"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 276
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b59a7c12ba4314fad36da341f46e6a
+      internalID: -578571969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_11"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 275
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef451b9550383d428d1b0902afbce1c
+      internalID: 1333426488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_12"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 274
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960574471e958c64095d970f08b3a743
+      internalID: 1338542372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_13"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 274
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefaf8b3791615e488f7cfa3f40742a4
+      internalID: 2086544243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_14"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 275
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a391e060cc7c2a140866bb89e3f9dd3c
+      internalID: 2058991440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_15"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 205
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af22e1f33f2b56d4ebac6c9c9c040da3
+      internalID: -813597794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_16"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 208
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d61adf7ee461949a047806901ab038
+      internalID: 1206751595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_17"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 213
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d64dc556653d24584ca575d623b59f
+      internalID: -673800511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_18"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 213
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b477ac63eea8e124bbc285db92dd8bd7
+      internalID: -1880199881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_19"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 209
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0452179fbd16bb94d8839408a94bb9c4
+      internalID: 135343664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_20"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 145
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ba7cee69a9504bb69254b4275bc04
+      internalID: -744178452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_21"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 145
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7e48e8591a8b240be5ded492796def
+      internalID: 966101783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_22"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 145
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67466b00a1b0b314c9990a8a67c7cbbe
+      internalID: 203369246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_23"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 145
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2623a38b6cfa54faaba7f727558834
+      internalID: 1991133596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_24"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 146
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db31beed01500874680c2dec8837cb6c
+      internalID: -1637126177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_25"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 83
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8fc48fcc0c3164bba94638f9160390
+      internalID: 1285356077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_26"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 83
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a631dda0091a664a8c9b7dc301a3196
+      internalID: -675801166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_27"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 82
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdbf9e76ee306644bc64bc9d114acb0
+      internalID: 403964942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_28"
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 82
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7c9e276b9253845adfbc9ff1f51d52
+      internalID: 408221751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_29"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 83
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c46bae0817f735449221a9c73bb56e5
+      internalID: -2056648117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_30"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 13
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd919269d0640d440a6244c3fedaed3e
+      internalID: 344084289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_31"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 13
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4d774486cabce428008a621b7e0053
+      internalID: 189458528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_32"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 15
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc902f68f7a25c547a89711e7e09f6fa
+      internalID: -704211833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_33"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 17
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd107b54422bc334590779f0582bf5bc
+      internalID: -559836697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Infanterie_\xE9p\xE9iste_Bleu_34"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 18
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e190de4256394f4880bcf5c7045910d
+      internalID: 475663828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Infanterie_\xE9p\xE9iste_Bleu_0": -990958782
+      "Infanterie_\xE9p\xE9iste_Bleu_1": -1365419880
+      "Infanterie_\xE9p\xE9iste_Bleu_10": -578571969
+      "Infanterie_\xE9p\xE9iste_Bleu_11": 1333426488
+      "Infanterie_\xE9p\xE9iste_Bleu_12": 1338542372
+      "Infanterie_\xE9p\xE9iste_Bleu_13": 2086544243
+      "Infanterie_\xE9p\xE9iste_Bleu_14": 2058991440
+      "Infanterie_\xE9p\xE9iste_Bleu_15": -813597794
+      "Infanterie_\xE9p\xE9iste_Bleu_16": 1206751595
+      "Infanterie_\xE9p\xE9iste_Bleu_17": -673800511
+      "Infanterie_\xE9p\xE9iste_Bleu_18": -1880199881
+      "Infanterie_\xE9p\xE9iste_Bleu_19": 135343664
+      "Infanterie_\xE9p\xE9iste_Bleu_2": 1616243629
+      "Infanterie_\xE9p\xE9iste_Bleu_20": -744178452
+      "Infanterie_\xE9p\xE9iste_Bleu_21": 966101783
+      "Infanterie_\xE9p\xE9iste_Bleu_22": 203369246
+      "Infanterie_\xE9p\xE9iste_Bleu_23": 1991133596
+      "Infanterie_\xE9p\xE9iste_Bleu_24": -1637126177
+      "Infanterie_\xE9p\xE9iste_Bleu_25": 1285356077
+      "Infanterie_\xE9p\xE9iste_Bleu_26": -675801166
+      "Infanterie_\xE9p\xE9iste_Bleu_27": 403964942
+      "Infanterie_\xE9p\xE9iste_Bleu_28": 408221751
+      "Infanterie_\xE9p\xE9iste_Bleu_29": -2056648117
+      "Infanterie_\xE9p\xE9iste_Bleu_3": 1917917798
+      "Infanterie_\xE9p\xE9iste_Bleu_30": 344084289
+      "Infanterie_\xE9p\xE9iste_Bleu_31": 189458528
+      "Infanterie_\xE9p\xE9iste_Bleu_32": -704211833
+      "Infanterie_\xE9p\xE9iste_Bleu_33": -559836697
+      "Infanterie_\xE9p\xE9iste_Bleu_34": 475663828
+      "Infanterie_\xE9p\xE9iste_Bleu_4": -1168688884
+      "Infanterie_\xE9p\xE9iste_Bleu_5": 1278317295
+      "Infanterie_\xE9p\xE9iste_Bleu_6": -725022971
+      "Infanterie_\xE9p\xE9iste_Bleu_7": 1796772654
+      "Infanterie_\xE9p\xE9iste_Bleu_8": 1866691367
+      "Infanterie_\xE9p\xE9iste_Bleu_9": 287962301
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

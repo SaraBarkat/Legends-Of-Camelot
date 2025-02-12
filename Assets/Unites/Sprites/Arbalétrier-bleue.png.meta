@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 103590e386d3d0a43aacfe94ee02e49f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_0"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 404
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa07bd74c61cef60800000000000000
+      internalID: 8064846065892264689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_1"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 405
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2547afcae9bcf4998d461b9ca8ed9e
+      internalID: 424829394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_2"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 405
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4874dd2c9e68d4ab6261a720cd745f
+      internalID: -58252437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_3"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 405
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21348cc74dd78864bad6d740a0dd5519
+      internalID: 783605155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_4"
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 405
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758c8dd6834da5541a7c25aebeb05e4e
+      internalID: 1404208501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_5"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 343
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a337201ab55bf194a813951d808f7395
+      internalID: -509899621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_6"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 343
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adae8816a308524d8648f93a7516567
+      internalID: 820196068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_7"
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 343
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d58229da0f33b54087755d0537aa399
+      internalID: 1212562709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_8"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 343
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ec12f6e67a8c74b8a67be683530dc1
+      internalID: 1231794342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_9"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 343
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc1c1baac29a324ea02e7b5adefd46d
+      internalID: 1210174396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_10"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 289
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a23809f0e234ab46a83e9c1fc46a22a
+      internalID: 1024336469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_11"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 286
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b560a147661a086449d00cce1f6a5ef8
+      internalID: 715263244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_12"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 286
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6701326ea3575b4db12d2942d81b7db
+      internalID: -2132193188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_13"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 286
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ffa1887c1e80042b0e177a7fc2f264
+      internalID: 17734773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_14"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 287
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e20ceefdeeeef42b10672877fbcd84
+      internalID: 284167042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_15"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 206
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36703d2e7c21a38479f94043dfb6c8a7
+      internalID: -1985124202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_16"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 212
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5c803769b09774b9dc1d56158b4b92
+      internalID: 935099876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_17"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 220
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b8f2c738dcaca43ab6a5baa1cf812a
+      internalID: 1470684999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_18"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 220
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dda375df7c9d84b8a2c0e4ac76ae3d
+      internalID: 542868999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_19"
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 212
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd473a1e9904dff4386616ee16bc26c4
+      internalID: 1702815404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_20"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 137
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a5a6010ebe21541952a78013ad4613
+      internalID: -1453100383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_21"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 137
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b891cb981e2fef44f859bcdc1d930391
+      internalID: 690834964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_22"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 137
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f4f0b28a9f88e4ea2b22edc3763b67
+      internalID: 667674458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_23"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 137
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c74866dc86f3cb4e87c532e210fd4c5
+      internalID: 165821718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_24"
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 137
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c9e9a74a5a7d043881393f4da5a1f5
+      internalID: -609555089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_25"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 69
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5296dc74201ee44faabafe5f89d6afa
+      internalID: -726135586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_26"
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 69
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b86f352db9074244a42b109a48aae48
+      internalID: 259446695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_27"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 69
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf993017671f54488d03eb9b396967d
+      internalID: -1802673462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_28"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 69
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7346b8e47e67b464291efb1e3cf00956
+      internalID: -1574691691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_29"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 69
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebeffbf12821dc47bac1036ab56b348
+      internalID: 258580492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_30"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 8
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10731ddf18a1c42428d4f5dc84a74cbb
+      internalID: -620315186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_31"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 7
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d620695cfdb2f2439c15241eebc7cbc
+      internalID: -1785688555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_32"
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cb1cb6159d604448794c15dd47a40c
+      internalID: -649353398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_33"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 6
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e129aa7b7cde1c41b427cc067dfffa6
+      internalID: -1444142368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbal\xE9trier-bleue_34"
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 8
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73c0459458a2cc40a9c6cc53e3546ec
+      internalID: 1366279361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e8355b657670eca4191f972c4be76cce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Arbal\xE9trier-bleue_0": 8064846065892264689
+      "Arbal\xE9trier-bleue_1": 424829394
+      "Arbal\xE9trier-bleue_10": 1024336469
+      "Arbal\xE9trier-bleue_11": 715263244
+      "Arbal\xE9trier-bleue_12": -2132193188
+      "Arbal\xE9trier-bleue_13": 17734773
+      "Arbal\xE9trier-bleue_14": 284167042
+      "Arbal\xE9trier-bleue_15": -1985124202
+      "Arbal\xE9trier-bleue_16": 935099876
+      "Arbal\xE9trier-bleue_17": 1470684999
+      "Arbal\xE9trier-bleue_18": 542868999
+      "Arbal\xE9trier-bleue_19": 1702815404
+      "Arbal\xE9trier-bleue_2": -58252437
+      "Arbal\xE9trier-bleue_20": -1453100383
+      "Arbal\xE9trier-bleue_21": 690834964
+      "Arbal\xE9trier-bleue_22": 667674458
+      "Arbal\xE9trier-bleue_23": 165821718
+      "Arbal\xE9trier-bleue_24": -609555089
+      "Arbal\xE9trier-bleue_25": -726135586
+      "Arbal\xE9trier-bleue_26": 259446695
+      "Arbal\xE9trier-bleue_27": -1802673462
+      "Arbal\xE9trier-bleue_28": -1574691691
+      "Arbal\xE9trier-bleue_29": 258580492
+      "Arbal\xE9trier-bleue_3": 783605155
+      "Arbal\xE9trier-bleue_30": -620315186
+      "Arbal\xE9trier-bleue_31": -1785688555
+      "Arbal\xE9trier-bleue_32": -649353398
+      "Arbal\xE9trier-bleue_33": -1444142368
+      "Arbal\xE9trier-bleue_34": 1366279361
+      "Arbal\xE9trier-bleue_4": 1404208501
+      "Arbal\xE9trier-bleue_5": -509899621
+      "Arbal\xE9trier-bleue_6": 820196068
+      "Arbal\xE9trier-bleue_7": 1212562709
+      "Arbal\xE9trier-bleue_8": 1231794342
+      "Arbal\xE9trier-bleue_9": 1210174396
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

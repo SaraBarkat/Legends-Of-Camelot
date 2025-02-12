@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 40290ed051a4b8946b3a581eb48c99d4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 399
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eafcac0b1a4b2b4cb7a18a25fb7ab1f
+      internalID: 1270381800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 400
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394d36f6670cc0c488af3cdf1d61965c
+      internalID: 2140562832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 400
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0deec2b5d50ef4f829f3b5be41d6a8
+      internalID: -132803925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 400
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c355829afe4e9714698bf546bf65fbba
+      internalID: -256744410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 400
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca76bda03ce2b134eac17a14d3b3b1ce
+      internalID: -1611905020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 341
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f7c8c41ccba384ab1e08de65cb786e
+      internalID: 570606817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 339
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5326cc0fe30b11d4e91718650a1f1e47
+      internalID: -1573900007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 342
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ec85310bcad9749b75372bc303fdfa
+      internalID: -178890744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 342
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d11fcda2cedba4a9904f166af40c93
+      internalID: 728971346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 342
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985819aa0b6497d44ade761fa90f1764
+      internalID: 1405684475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 285
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd57a2120f38324ba8c39f6331222ff
+      internalID: -1016743566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 283
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424527680eb2a3e44a8b1557b9c948d5
+      internalID: -847682405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 282
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6356fc13885b53344aa543272474e1f0
+      internalID: 1237982480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 282
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a4001c8d75d8546b3f5a252c382eef
+      internalID: -1425116499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 283
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba0ecd04a3f8f64a8afb0c78a330080
+      internalID: 1242687467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 204
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb727be8358520d45979a963291d6896
+      internalID: -1506949881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 210
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d24696da70499b4eb8c549ba846d547
+      internalID: 729985384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 218
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695e5b5607160cc4493ebe0f7658e17a
+      internalID: -1579491587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 218
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a3062f0d9ab574797e9d933edae82f
+      internalID: -2090524146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 211
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6343893f75d26ab44900ec07802339f2
+      internalID: -295053243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 136
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7044abac68f994fa0f32930a7f9918
+      internalID: 246166307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 136
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bdff99182ff6a4690b48cdb5f6eeaf
+      internalID: -2114561872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 136
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc287942e61842a42bf287ebac612f54
+      internalID: 667890485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 136
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e3026732b4b9c4da9f621e145348bd
+      internalID: 1805769384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 136
+        width: 89
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b3490c6dfa4954f9989010923418bd
+      internalID: -902768536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 70
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4805eec07c2b5438ab72232e01fc78
+      internalID: -100125648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 70
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2daed9d2f29b294eab2db744fe774a7
+      internalID: -1240210362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 70
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cda8b087bef374c98f9d79dee5deaf
+      internalID: 250854771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 70
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db8d9d2e42d2034c94e42ad316f6a87
+      internalID: -1942016604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 70
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21b1738af3e24a47b709526f552a039
+      internalID: -1865949220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 11
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2432a58838b694496a74cadf064eaf
+      internalID: -1850985366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 10
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a75859cd8a565c4183fb68c3b3cad31
+      internalID: -1147581120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 10
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553fb743d0a15bb4f8cb01223b38a97c
+      internalID: -559738252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 8
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb83aafa57ce044ea73e59797b2e849
+      internalID: 1173286425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archers_lourds-removebg-preview__2_-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 8
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2867096bb0c86047bff0c03bd2efff8
+      internalID: -401699582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Archers_lourds-removebg-preview__2_-removebg-preview_0: 1270381800
+      Archers_lourds-removebg-preview__2_-removebg-preview_1: 2140562832
+      Archers_lourds-removebg-preview__2_-removebg-preview_10: -1016743566
+      Archers_lourds-removebg-preview__2_-removebg-preview_11: -847682405
+      Archers_lourds-removebg-preview__2_-removebg-preview_12: 1237982480
+      Archers_lourds-removebg-preview__2_-removebg-preview_13: -1425116499
+      Archers_lourds-removebg-preview__2_-removebg-preview_14: 1242687467
+      Archers_lourds-removebg-preview__2_-removebg-preview_15: -1506949881
+      Archers_lourds-removebg-preview__2_-removebg-preview_16: 729985384
+      Archers_lourds-removebg-preview__2_-removebg-preview_17: -1579491587
+      Archers_lourds-removebg-preview__2_-removebg-preview_18: -2090524146
+      Archers_lourds-removebg-preview__2_-removebg-preview_19: -295053243
+      Archers_lourds-removebg-preview__2_-removebg-preview_2: -132803925
+      Archers_lourds-removebg-preview__2_-removebg-preview_20: 246166307
+      Archers_lourds-removebg-preview__2_-removebg-preview_21: -2114561872
+      Archers_lourds-removebg-preview__2_-removebg-preview_22: 667890485
+      Archers_lourds-removebg-preview__2_-removebg-preview_23: 1805769384
+      Archers_lourds-removebg-preview__2_-removebg-preview_24: -902768536
+      Archers_lourds-removebg-preview__2_-removebg-preview_25: -100125648
+      Archers_lourds-removebg-preview__2_-removebg-preview_26: -1240210362
+      Archers_lourds-removebg-preview__2_-removebg-preview_27: 250854771
+      Archers_lourds-removebg-preview__2_-removebg-preview_28: -1942016604
+      Archers_lourds-removebg-preview__2_-removebg-preview_29: -1865949220
+      Archers_lourds-removebg-preview__2_-removebg-preview_3: -256744410
+      Archers_lourds-removebg-preview__2_-removebg-preview_30: -1850985366
+      Archers_lourds-removebg-preview__2_-removebg-preview_31: -1147581120
+      Archers_lourds-removebg-preview__2_-removebg-preview_32: -559738252
+      Archers_lourds-removebg-preview__2_-removebg-preview_33: 1173286425
+      Archers_lourds-removebg-preview__2_-removebg-preview_34: -401699582
+      Archers_lourds-removebg-preview__2_-removebg-preview_4: -1611905020
+      Archers_lourds-removebg-preview__2_-removebg-preview_5: 570606817
+      Archers_lourds-removebg-preview__2_-removebg-preview_6: -1573900007
+      Archers_lourds-removebg-preview__2_-removebg-preview_7: -178890744
+      Archers_lourds-removebg-preview__2_-removebg-preview_8: 728971346
+      Archers_lourds-removebg-preview__2_-removebg-preview_9: 1405684475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

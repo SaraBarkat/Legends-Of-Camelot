@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: d0bc661940a5ae340a4062916d7816bc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 410
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f33715ad2249b148a0a2a884211c6bc
+      internalID: -1344779683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 410
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea4a5d028617444195c28755a43d729
+      internalID: -1373954263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 410
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776f57b03a241d4429dff2119a6d94df
+      internalID: 872552315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 410
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912fe72f1f5132e40853a9e6e6e7558b
+      internalID: -1036167750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 410
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6aaecff51ed0d49a534d924720c2e4
+      internalID: 1815879353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 347
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacd1f04a5c2968448ac87138ae44106
+      internalID: -1542208630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 347
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e81171c3249f04f8202cbeaffbf193
+      internalID: -1803048479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 347
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d263b748439ece5489b243832b11a35b
+      internalID: -2081494529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 347
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2b7e2afbbf0404992940fd86ef6e8a
+      internalID: -38168867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_9
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 347
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4880078db54b0ca42b13ab27ed3091a3
+      internalID: -291929469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 282
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a66931d62190be4395d6da0f9f49994
+      internalID: -517490278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 281
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e23a2b4ebed5384d89f5d43c95940ee
+      internalID: 1387509204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_12
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 282
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b513dd80b8fc9a4fa9ead00305a469b
+      internalID: 1937576647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 282
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a3dca41e018424aa287446793f54a6
+      internalID: -2068217385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 281
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56aa32cd4a76cd94a87de0487260a0dd
+      internalID: -1541597848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 206
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b363a8d69752a4bb9bc9875e39d1f7
+      internalID: -170196595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 209
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d0612070110e24c9d9621acb1304b6
+      internalID: -1657773921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 215
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9c747fc7c26e549b2a470e288e4083
+      internalID: 883834028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_18
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 215
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2418005bc2f3dd440bf8bb5f920a56a9
+      internalID: -992161313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_19
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 209
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d92395b2c15c34abb0b002a86ce283
+      internalID: -22371926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 141
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3330421a80da2244cbcc2c7f416ce71e
+      internalID: -1587810185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 142
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a57601e7de455b459faca2507f4f5d3
+      internalID: -1679384128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 142
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82ce266e2dd2ea4180507516ee72b5c
+      internalID: 300723956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_23
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 142
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac180e22bbb14b4d93507f7a70082a4
+      internalID: -1574097551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_24
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 142
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5062887a98fbbf446a99a57a86df93cf
+      internalID: 285696222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 82
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff8f9dad4e42a84b8ead256476fbe12
+      internalID: 994804409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 81
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f95e6e7560bec649bd1517c83e2e854
+      internalID: 988765866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_27
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 81
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd6f2503b05025449d38764a1b4850e
+      internalID: 214365842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_28
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 81
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6292db3de8ab35a4b8f38c981675ec49
+      internalID: 374194318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_29
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 81
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1f47c4812a76e46bae5664136e73b6
+      internalID: -1680655980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 12
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2073de94b9fa2f419cfc2ca54e7fdc2
+      internalID: -1060550102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 11
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19749228488ef9548993faac196e7d3b
+      internalID: 820981224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 10
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db7a802d88e38a43bd3a85d249e4ad0
+      internalID: 302716800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 9
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e38f6c0c3984c047b2dd2b4d83a08f0
+      internalID: -1073043409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-rouge_34
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 8
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b73d9ab2f8fb1a4b80a0a7fd9310a3e
+      internalID: 1158895880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Infanterie_simple-rouge_0: -1344779683
+      Infanterie_simple-rouge_1: -1373954263
+      Infanterie_simple-rouge_10: -517490278
+      Infanterie_simple-rouge_11: 1387509204
+      Infanterie_simple-rouge_12: 1937576647
+      Infanterie_simple-rouge_13: -2068217385
+      Infanterie_simple-rouge_14: -1541597848
+      Infanterie_simple-rouge_15: -170196595
+      Infanterie_simple-rouge_16: -1657773921
+      Infanterie_simple-rouge_17: 883834028
+      Infanterie_simple-rouge_18: -992161313
+      Infanterie_simple-rouge_19: -22371926
+      Infanterie_simple-rouge_2: 872552315
+      Infanterie_simple-rouge_20: -1587810185
+      Infanterie_simple-rouge_21: -1679384128
+      Infanterie_simple-rouge_22: 300723956
+      Infanterie_simple-rouge_23: -1574097551
+      Infanterie_simple-rouge_24: 285696222
+      Infanterie_simple-rouge_25: 994804409
+      Infanterie_simple-rouge_26: 988765866
+      Infanterie_simple-rouge_27: 214365842
+      Infanterie_simple-rouge_28: 374194318
+      Infanterie_simple-rouge_29: -1680655980
+      Infanterie_simple-rouge_3: -1036167750
+      Infanterie_simple-rouge_30: -1060550102
+      Infanterie_simple-rouge_31: 820981224
+      Infanterie_simple-rouge_32: 302716800
+      Infanterie_simple-rouge_33: -1073043409
+      Infanterie_simple-rouge_34: 1158895880
+      Infanterie_simple-rouge_4: 1815879353
+      Infanterie_simple-rouge_5: -1542208630
+      Infanterie_simple-rouge_6: -1803048479
+      Infanterie_simple-rouge_7: -2081494529
+      Infanterie_simple-rouge_8: -38168867
+      Infanterie_simple-rouge_9: -291929469
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 5a9c69a6e1da9bb4ebdad46a364c7bc9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 416
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4768b841fd521245ad52c2e7c932faf
+      internalID: -1470401440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc05e5b24479df4884858582367889b
+      internalID: 1055171191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 417
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d819e5c16c618347af6a1d4228ca6eb
+      internalID: 1070590261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 416
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b417f66ec61f2de479fa710b44d8ba05
+      internalID: -1986114860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 415
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad62d2456d4d247a579f7bfe67592c
+      internalID: -362475605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 351
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3543a6d7d502ee49830d28b608bc4e3
+      internalID: 752456398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 352
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6711ea8447938845ba1149c73b3cb24
+      internalID: 772436507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 353
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30726dd8355be8b4880ff4835f686e76
+      internalID: -36516087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 353
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f31466e91f3d1438babd2fd615fdd2
+      internalID: -435466539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 353
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb333e7642702a438494e9cd271e290
+      internalID: 1648379185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 284
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb2802cfbf2c334db62b7c3f3cfec0d
+      internalID: 1810245570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 284
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9bbffd89c30754a801643d3b61ffe2
+      internalID: 6560727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 285
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fae61fb87f1f54395c09ebb9af7075
+      internalID: -1023704564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 285
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718da89e11e61b549847ee2c6fc14c8f
+      internalID: -1606894903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 284
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697100b85d808bb4faa05b8f3a79d12e
+      internalID: -935626813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 211
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae7786392d862c4b96cdc1ef8e0289c
+      internalID: -773916459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 215
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f164d12503f888f4aacaddc09c310eb1
+      internalID: 662704448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 220
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beade2abce61b248b3af6ea2884039a
+      internalID: 971953030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_18
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 220
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91728fcd2aa376459371481c2dd668d
+      internalID: 1071543935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_19
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 215
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c636958ef9f4540b076736b114e91c
+      internalID: -909488779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c480dfdb3c2a4942b71ba71e0988823
+      internalID: 859492050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 149
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c6334bdaca14848a531d8999933c91
+      internalID: -120826884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_22
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 149
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ad9478e3284ef4a88747a242d0777e
+      internalID: -395462057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 150
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45299c78878dd8f42bb9b1018a0b9919
+      internalID: 64899086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_24
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 149
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1c530fb67edb54c83134259b35d781
+      internalID: -332665430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 87
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be73204f65424d4399038d567ee6976
+      internalID: 617971239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 87
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92021320662c6cb4796088cbb9cde23c
+      internalID: 590361307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_27
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 86
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d51364d0d37a5f43b66b11fb4df37ae
+      internalID: -1208258422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_28
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 86
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e728d1c1f135ab1438db1b05a3a064ee
+      internalID: -101147436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_29
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 86
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf172f04179d8447bbd161491962f01
+      internalID: -165914063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821cea35a4b5a0144bfab75ad2717361
+      internalID: 2140823867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 17
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4574977ae5313104287004abf7ab891d
+      internalID: -1091568145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 16
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdce18304d9959545a33445d18aa50de
+      internalID: -1071835368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_33
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 14
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e897a26033cca9c40a3f5421dbbb9e9b
+      internalID: 1363674832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Rouge_34
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 14
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c8e333c2043204b9f1fbd268cab86d
+      internalID: -254582751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Infanterie_lourde_Rouge_0: -1470401440
+      Infanterie_lourde_Rouge_1: 1055171191
+      Infanterie_lourde_Rouge_10: 1810245570
+      Infanterie_lourde_Rouge_11: 6560727
+      Infanterie_lourde_Rouge_12: -1023704564
+      Infanterie_lourde_Rouge_13: -1606894903
+      Infanterie_lourde_Rouge_14: -935626813
+      Infanterie_lourde_Rouge_15: -773916459
+      Infanterie_lourde_Rouge_16: 662704448
+      Infanterie_lourde_Rouge_17: 971953030
+      Infanterie_lourde_Rouge_18: 1071543935
+      Infanterie_lourde_Rouge_19: -909488779
+      Infanterie_lourde_Rouge_2: 1070590261
+      Infanterie_lourde_Rouge_20: 859492050
+      Infanterie_lourde_Rouge_21: -120826884
+      Infanterie_lourde_Rouge_22: -395462057
+      Infanterie_lourde_Rouge_23: 64899086
+      Infanterie_lourde_Rouge_24: -332665430
+      Infanterie_lourde_Rouge_25: 617971239
+      Infanterie_lourde_Rouge_26: 590361307
+      Infanterie_lourde_Rouge_27: -1208258422
+      Infanterie_lourde_Rouge_28: -101147436
+      Infanterie_lourde_Rouge_29: -165914063
+      Infanterie_lourde_Rouge_3: -1986114860
+      Infanterie_lourde_Rouge_30: 2140823867
+      Infanterie_lourde_Rouge_31: -1091568145
+      Infanterie_lourde_Rouge_32: -1071835368
+      Infanterie_lourde_Rouge_33: 1363674832
+      Infanterie_lourde_Rouge_34: -254582751
+      Infanterie_lourde_Rouge_4: -362475605
+      Infanterie_lourde_Rouge_5: 752456398
+      Infanterie_lourde_Rouge_6: 772436507
+      Infanterie_lourde_Rouge_7: -36516087
+      Infanterie_lourde_Rouge_8: -435466539
+      Infanterie_lourde_Rouge_9: 1648379185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

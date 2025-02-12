@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 59e25576b686e104c894d8132bf3af55
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 410
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c7799e561e62542b67e42a5f170424
+      internalID: 1138821292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 410
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cd9ae7f1e16d74ea167d9b2e7c8929
+      internalID: 102566781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 410
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7248578352e88ba479c55c524d7b1ff4
+      internalID: -1784210615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 410
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b77e365e4e2bf458e799cd226da102
+      internalID: -46583323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 410
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3371b8d7243074e4aa227fbd2ef04b28
+      internalID: -1489055907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 347
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf2f023a15326c459f0f3e0b2019fcd
+      internalID: -1540899439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 347
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb29121ceeec1a47893065a016f3618
+      internalID: 657378178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 347
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2bfb8234a291d4cb4996ad1c2eadde
+      internalID: -1854313840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 347
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3451dad759a8f43988abc171b637d8
+      internalID: 1975661588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_9
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 347
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb859aff6a138ad4eb94098846e40506
+      internalID: 539690690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 282
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29acd400e69d094c818838b10df3d1d
+      internalID: 1530955204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 281
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc895222f98cb04783fbdadac000ae9
+      internalID: 632522672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_12
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 282
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219ab2e4fb39f2c45a4540a6531d7e1c
+      internalID: 2098850001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 282
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd61c5ec96e272d428f18a8339762717
+      internalID: 401080739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 281
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31782cba92392d42a89e046f5c26f9b
+      internalID: -275717879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 206
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3197e492b0c35d5459a21f2b9e72ced8
+      internalID: 1007766380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 209
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366e4689fc6795d45b2fb912f59a801a
+      internalID: -2054644826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 215
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3376eeb96164447b42837d68f418df
+      internalID: -142486117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_18
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 215
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2618df5b4dace4842b1b55d4b9f6e2fc
+      internalID: -1538346481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_19
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 209
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e1141b2639eb64c922a34b6fe43c0b
+      internalID: 798889255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 141
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0e617ffec5d064588643e1c763da66
+      internalID: -1191579244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 142
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e3a1772ffe4a840adde0fd0c0c004b
+      internalID: -1571220356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 142
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e8cd520aa359d498574b562f2f57b3
+      internalID: 236413944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_23
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 142
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41181a6b25159d74b9c2d2246c9f8474
+      internalID: 1243611719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_24
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 142
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c5d04eba56522489ae498d2f571d08
+      internalID: -1757195281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 82
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7f20315bdfe2c4abb5cedc217bdcc6
+      internalID: -780058753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 81
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd97398fb4e7074d8fec6e5a0aba64b
+      internalID: -1509184516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_27
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 81
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4970266114196814dacc0b1b6ccdeb20
+      internalID: -651525382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_28
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 81
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce2bbfc12a8f94db2774af57827b81
+      internalID: -481607790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_29
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 81
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b01ec2c36c2e440ab046904d323c0b
+      internalID: -1281700571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 12
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c5b7d7461367948a8d8c7a00937421
+      internalID: -1967344122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 11
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8213bdcfb6cd343b73374340a30a89
+      internalID: 1887534133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 10
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273a13c17c8cd0e4ba66535e409cd79b
+      internalID: 1375485854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 9
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ab47ffc9bbc614dba12a85ad68b8c8
+      internalID: -1114441106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_simple-bleue_34
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 8
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848ed42d41149484d8f3f97e4f96cdea
+      internalID: 688778873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Infanterie_simple-bleue_0: 1138821292
+      Infanterie_simple-bleue_1: 102566781
+      Infanterie_simple-bleue_10: 1530955204
+      Infanterie_simple-bleue_11: 632522672
+      Infanterie_simple-bleue_12: 2098850001
+      Infanterie_simple-bleue_13: 401080739
+      Infanterie_simple-bleue_14: -275717879
+      Infanterie_simple-bleue_15: 1007766380
+      Infanterie_simple-bleue_16: -2054644826
+      Infanterie_simple-bleue_17: -142486117
+      Infanterie_simple-bleue_18: -1538346481
+      Infanterie_simple-bleue_19: 798889255
+      Infanterie_simple-bleue_2: -1784210615
+      Infanterie_simple-bleue_20: -1191579244
+      Infanterie_simple-bleue_21: -1571220356
+      Infanterie_simple-bleue_22: 236413944
+      Infanterie_simple-bleue_23: 1243611719
+      Infanterie_simple-bleue_24: -1757195281
+      Infanterie_simple-bleue_25: -780058753
+      Infanterie_simple-bleue_26: -1509184516
+      Infanterie_simple-bleue_27: -651525382
+      Infanterie_simple-bleue_28: -481607790
+      Infanterie_simple-bleue_29: -1281700571
+      Infanterie_simple-bleue_3: -46583323
+      Infanterie_simple-bleue_30: -1967344122
+      Infanterie_simple-bleue_31: 1887534133
+      Infanterie_simple-bleue_32: 1375485854
+      Infanterie_simple-bleue_33: -1114441106
+      Infanterie_simple-bleue_34: 688778873
+      Infanterie_simple-bleue_4: -1489055907
+      Infanterie_simple-bleue_5: -1540899439
+      Infanterie_simple-bleue_6: 657378178
+      Infanterie_simple-bleue_7: -1854313840
+      Infanterie_simple-bleue_8: 1975661588
+      Infanterie_simple-bleue_9: 539690690
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

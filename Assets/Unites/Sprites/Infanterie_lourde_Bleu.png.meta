@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 061f2d6644534bb409365b8c827af4c3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 416
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8475e6f527ac44e84eea32d1c31336
+      internalID: -1484584683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b91eee18d09d5408ea82e4204b5b3a
+      internalID: 1364931243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 417
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5538c9b21d938347ab6231d32b358bc
+      internalID: -1717209323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 416
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5367ea641ff29b488d5489c3d28c39f
+      internalID: 784600868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 416
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b06f0e212cacd444bc92e48c71b6ed6
+      internalID: 569179204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 352
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33634a80d3a682342bde675119d891b9
+      internalID: -1595297343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 353
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b5f6c38a8a1264f923234029d96627
+      internalID: 2098687703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 353
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2771fbf41e9df14cb0adddabc49f34d
+      internalID: 606618351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 353
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a35ca5bf3c2c3468c63b8efe8480e8
+      internalID: 1186180422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 353
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71498ad923c1b634ba196d0166d429d8
+      internalID: 346228592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 284
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c11c58ab45970a4cbb68241d119241a
+      internalID: 512928801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 284
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14655cb22a1b0d4448a94195c17c5fd1
+      internalID: -1361411865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 285
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc416f15e82d6d4cb9055b1af8ce9d9
+      internalID: 936190582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 285
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbf540dd79f838448f9096cd7dd5024
+      internalID: -481588514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 284
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe9a6bb4f146194e922058ce63cdfbe
+      internalID: -1713628493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 212
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e8c32fde5357949864bfcb0767e5a0
+      internalID: -1917620192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 216
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129f6cafb346f964aa2bbbf079e7c746
+      internalID: 1722711475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 220
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f402fc9d48a0b478b08ac945bafeba
+      internalID: 1189809894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_18
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 220
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f4d0c2387aa27469b63cd55c02e5e1
+      internalID: 1826797024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_19
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 216
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61676e50634457c41bd26cdd32553019
+      internalID: -368294714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacb3c694747f34478beee44b94350c8
+      internalID: -565205090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 149
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234ef2d444c5c0b45919480267c4ec6d
+      internalID: -1389012623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_22
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 149
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196f80e21555786408cededf9be4925d
+      internalID: -1328059563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 150
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219ae2e1d8106a044bb83b34146b1221
+      internalID: 1001223170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_24
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 150
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68a05425eb071549a421a6c0212f888
+      internalID: 1120855695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 87
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b546800c029cfcc4a985764ca6a567bb
+      internalID: 573679359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 87
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ec4e5de5a7b1044a75c863414b90ee
+      internalID: 1391040088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_27
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 86
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4c26e82c670a24499d15f351334f93
+      internalID: 575621222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_28
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 86
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd74968d5392c40499f1a5002b14222d
+      internalID: -503614690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_29
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 87
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf8cdeebcefb9741b7405cc7f7db9c2
+      internalID: 1099208197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c72bbafe1dd60b4cb750b933257c5b1
+      internalID: -102367622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 17
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f042cc2cc20730e439965f4a70ae989f
+      internalID: 439673079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 16
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0802795f59ead8641aeec49c3f0406ba
+      internalID: -479987581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_33
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 14
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7f8c5b9d4f0054b8ce9dc06d9f52fa
+      internalID: -1726446072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infanterie_lourde_Bleu_34
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 14
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a5a657bf6dd804ea7bc5600a25d65e
+      internalID: 1032218330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Infanterie_lourde_Bleu_0: -1484584683
+      Infanterie_lourde_Bleu_1: 1364931243
+      Infanterie_lourde_Bleu_10: 512928801
+      Infanterie_lourde_Bleu_11: -1361411865
+      Infanterie_lourde_Bleu_12: 936190582
+      Infanterie_lourde_Bleu_13: -481588514
+      Infanterie_lourde_Bleu_14: -1713628493
+      Infanterie_lourde_Bleu_15: -1917620192
+      Infanterie_lourde_Bleu_16: 1722711475
+      Infanterie_lourde_Bleu_17: 1189809894
+      Infanterie_lourde_Bleu_18: 1826797024
+      Infanterie_lourde_Bleu_19: -368294714
+      Infanterie_lourde_Bleu_2: -1717209323
+      Infanterie_lourde_Bleu_20: -565205090
+      Infanterie_lourde_Bleu_21: -1389012623
+      Infanterie_lourde_Bleu_22: -1328059563
+      Infanterie_lourde_Bleu_23: 1001223170
+      Infanterie_lourde_Bleu_24: 1120855695
+      Infanterie_lourde_Bleu_25: 573679359
+      Infanterie_lourde_Bleu_26: 1391040088
+      Infanterie_lourde_Bleu_27: 575621222
+      Infanterie_lourde_Bleu_28: -503614690
+      Infanterie_lourde_Bleu_29: 1099208197
+      Infanterie_lourde_Bleu_3: 784600868
+      Infanterie_lourde_Bleu_30: -102367622
+      Infanterie_lourde_Bleu_31: 439673079
+      Infanterie_lourde_Bleu_32: -479987581
+      Infanterie_lourde_Bleu_33: -1726446072
+      Infanterie_lourde_Bleu_34: 1032218330
+      Infanterie_lourde_Bleu_4: 569179204
+      Infanterie_lourde_Bleu_5: -1595297343
+      Infanterie_lourde_Bleu_6: 2098687703
+      Infanterie_lourde_Bleu_7: 606618351
+      Infanterie_lourde_Bleu_8: 1186180422
+      Infanterie_lourde_Bleu_9: 346228592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
