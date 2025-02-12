@@ -4,13 +4,6 @@ Un jeu d'aventure inspiré du jeu Advance Wars mais dans un esprit medieval, dé
 
 ---
 
-("![Gameplay Screenshot](Assets/GamePlay.png)
-")
-
----
-
-
-
 ## 🚀 Technologies utilisées
 
 - **Unity 2022.3** - Moteur de jeu 🎮  
@@ -18,4 +11,12 @@ Un jeu d'aventure inspiré du jeu Advance Wars mais dans un esprit medieval, dé
 
 
 ---
+
+("![Gameplay Screenshot](Assets/GamePlay.png)
+")
+
+---
+
+
+
 
