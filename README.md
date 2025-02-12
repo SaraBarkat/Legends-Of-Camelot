@@ -6,7 +6,8 @@ Un jeu d'aventure inspiré du jeu Advance Wars mais dans un esprit medieval, dé
 
 ## 📸 Captures d'écran
 
-![Gameplay Screenshot]("C:\Users\windows\Desktop\My Projets\LegendsOfCamelot-main\Assets\GamePlay.png")
+![Gameplay Screenshot]("![Gameplay Screenshot](Assets/GamePlay.png)
+")
 
 ---
 
