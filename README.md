@@ -12,8 +12,8 @@ Un jeu d'aventure inspiré du jeu Advance Wars mais dans un esprit medieval, dé
 
 ---
 
-("![Gameplay Screenshot](Assets/GamePlay.png)
-")
+![Gameplay Screenshot](Assets/GamePlay.png)
+
 
 ---
 
